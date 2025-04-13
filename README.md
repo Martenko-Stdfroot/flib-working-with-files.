@@ -18,6 +18,8 @@ Convenient and simple Python library for file operations with built-in security 
 
 ## Installation
 
+1. Installation via git.
+
 Install via pip:
 ```bash
 pip install git
@@ -26,6 +28,15 @@ pip install git
 ```
 https://github.com/Martenko-Stdfroot/flib.git
 ```
+2. Installation via gh.
+
+```bash
+pip install gh
+```
+
+```bash
+gh repo clone Martenko-Stdfroot/flib-working-with-files.
+````
 
 ## About 🔍
 
