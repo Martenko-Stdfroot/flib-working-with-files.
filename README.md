@@ -20,4 +20,6 @@ Convenient and simple Python library for file operations with built-in security 
 
 Install via pip:
 ```bash
-pip install git+https://github.com/MartenkoStdfroot/flib.git
+pip install git
+```bash
+https://github.com/Martenko-Stdfroot/flib.git
