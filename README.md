@@ -1,2 +1,23 @@
-# flib-working-with-files.
-Convenient and simple library for working with files, speeds up routine!
+# flib 🗂️
+
+Convenient and simple Python library for file operations with built-in security features.
+
+![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+![License](https://img.shields.io/badge/license-Custom-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
+## Features
+
+- **File Operations**: Create, read, update, delete, and rename files
+- **Binary Support**: Work with binary files and pickle serialization
+- **JSON Handling**: Read/write JSON files with ease
+- **Security**: Version integrity checking with HMAC signatures
+- **Logging**: Built-in operation logging
+- **Size Utilities**: File size measurement and conversion
+- **Encoding Support**: UTF-8 by default with customizable encoding
+
+## Installation
+
+Install via pip:
+```bash
+pip install git+https://github.com/MartenkoStdfroot/flib.git
