@@ -30,11 +30,10 @@ https://github.com/Martenko-Stdfroot/flib.git
 ## About 🔍
 
 **Version:** `F 0.2.0v`  
-**Author:** [Martenko Stdfroot](https://github.com/MartenkoStdfroot)  
-**Release Date:** `20:03 Apr 13, 2025 (UTC)`  
+**Author:** [Martenko Stdfroot](https://github.com/Martenko-Stdfroot)  
+**Release Date:** `20:03 Apr 13, 2025 (MSK)`  
 **License:** [![License](https://img.shields.io/badge/License-Custom-blue)](LICENSE)  
 
 ---
 
-🛠️ A minimalist Python library for secure file operations with built-in version integrity checks.  
-🔒 Features HMAC-signed version control and atomic file operations.
+P.S. I can't guarantee frequent updates as it depends on my motivation and free time. You can suggest improvements and changes - we'll discuss and decide together.
